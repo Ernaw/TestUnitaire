@@ -4,7 +4,7 @@ import pytest
 def div(first, second):
     assert (second != 0)
     return first / second
-def multiple(first, second): #DD
+def multiple(first, second): #DDd
     assert(first != 0)
     assert(second != 0)
     return first * second
